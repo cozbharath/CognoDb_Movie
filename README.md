@@ -270,10 +270,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions, please open a GitHub issue in this repository.
-
----
-
-**Happy coding! 🎉**
