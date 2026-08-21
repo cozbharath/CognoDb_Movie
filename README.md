@@ -270,3 +270,12 @@ This project is open source and available under the MIT License.
 
 ---
 
+## 👤 Author & Contact
+
+**Bharath Kumar**
+- GitHub: [@cozbharath](https://github.com/cozbharath)
+- Project: [CognoDb_Movie](https://github.com/cozbharath/CognoDb_Movie)
+
+For questions, suggestions, or collaboration, feel free to reach out or open an issue on the repository.
+
+---
